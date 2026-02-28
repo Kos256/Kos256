@@ -1,7 +1,7 @@
 # Welcome to my profile!
 People online mostly call me Kos, although my name is Kosain. Take your pick on what you want to call me ¯\\_(ツ)\_/¯
 ## What do I like doing?
-I like developing small tools that solve niche annoying problems. Making programs and scripts are very fun too. I like software and hardware development (I play with arduinos a lot), and making music has been a hobby of mine for a long time. I love contributing to all sorts of projects.
+I like developing small tools that solve niche annoying problems. Making programs and scripts are very fun too. I like software and hardware development (I play with arduinos a lot), and making music has been a hobby of mine for a long time. I love contributing to all sorts of projects. I have also been learning 3D animation.
 
 ## Language preferences
 1. C#
